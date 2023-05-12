@@ -1,4 +1,10 @@
 # Labs 4º Edição
+<p>
+  <img src="https://img.shields.io/badge/OS-Linux-blue" alt="OS">
+    <img src="https://img.shields.io/badge/Language-C%20%7C%20C%2B%2B-orange.svg" alt="Language">
+    <img src="https://img.shields.io/badge/Status-complete-green.svg" alt="Status">
+</p>
+
 ### Como deve funcionar e como utilizar o programa:
 
 - Como o programa deve funcionar -> O programa `Encoder` deve receber um ou mais arquivos de texto, como argumentos de linha de comando, ele ira compactar os textos e enviar para o programa `Decoder` que ira descompactar os textos e enviar informações como: dado descomprimido, quantidade de bits ou bytes totais, quantidade de bits ou bytes comprimidos e o tempo da operação de descompressão novamente. Essas informações serão recebidas pelo `Encoder`, que irá imprimi-las no retorno do terminal.
